@@ -51,7 +51,7 @@ python3 -m torch.distributed.launch --nproc_per_node=8 train_nus_second_stage.py
         --ckpt-path path_to_first_stage_ckpt
 ```
 
-The checkpoint of the second training stage is [here](https://drive.google.com/file/d/1TBh1eWDLhHTjTfnRRfZULpe4DfPj7u9O/view?usp=sharing).
+The checkpoint of the second training stage is [here](https://drive.google.com/file/d/1oIxknayES8Z1SKRvKVaywq_VgTStPS-g/view?usp=sharing).
 
 ## Testing MKT on NUS-WIDE
 
