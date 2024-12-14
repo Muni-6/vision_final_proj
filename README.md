@@ -16,15 +16,12 @@ pip install -r requirements.txt
 ## Preparation
 
 1. Download pretrained VLP(ViT-B/16) model from [OpenAI CLIP](https://github.com/openai/CLIP).
-
-2. Download images of NUS-WIDE dataset  from [NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html).
-
-3. Download annotations following the [BiAM](https://github.com/akshitac8/BiAM) from [here](https://drive.google.com/drive/folders/1jvJ0FnO_bs3HJeYrEJu7IcuilgBipasA?usp=sharing).
-
-4. Download other files from [here](https://drive.google.com/drive/folders/1kTb83_p92fM04OAkGyiHypOgwtxc4wVa?usp=sharing).
-
+https://drive.google.com/file/d/18_AudDH-2e1OxYYpuh1py3A1x9jrDxhS/view?usp=drive_link
 The organization of the dataset directory is shown as follows.
-
+All other datasets that are needed to create the below structure are in this link : 
+```bash
+https://drive.google.com/drive/folders/1a3zV7gF6ojhUS8qobXuAxsynSomgeN2l?usp=sharing
+```
 ```bash
 NUS-WIDE
   ├── features
