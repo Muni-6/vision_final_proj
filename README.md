@@ -42,7 +42,7 @@ python3 train_nus_first_stage.py \
 
 ```
 
-The checkpoint of the first training stage is [here](https://drive.google.com/file/d/158ntqLvepVklwmY1PvlqIhguv7wN6SZI/view?usp=sharing).
+The checkpoint of the first training stage is [here](https://drive.google.com/file/d/1MWSp2-vO-7uFv9th0bF0cFgLPYFfI-2o/view?usp=sharing).
 
 ```bash
 python3 -m torch.distributed.launch --nproc_per_node=8 train_nus_second_stage.py \
